@@ -27,3 +27,7 @@ python app.py
 ### Final Output 
 
 ![Alt Text](image1.jpeg)
+
+## Contributors
+- Shruthi Mohan ([GitHub](https://github.com/shruthimohan03))
+- Bagiya Lakshmi ([GitHub](https://github.com/bagiyalakshmi))
