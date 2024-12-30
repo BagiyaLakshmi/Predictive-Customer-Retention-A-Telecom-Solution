@@ -18,7 +18,8 @@ app = Flask(__name__)
 
 # Initialize Groq client
 client = Groq(
-    api_key=os.getenv("API_KEY")
+    api_key= os.getenv("API_KEY")
+    # os.getenv("API_KEY")
 
 )
 

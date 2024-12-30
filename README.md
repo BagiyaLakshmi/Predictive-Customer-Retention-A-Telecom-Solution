@@ -24,10 +24,11 @@ python app.py
 
 #### LLM Model used: llama3-8b-8192
 
-### Final Output 
+### Demo
 
-![Alt Text](image1.jpeg)
+![Demo](Dataset24.gif)
 
 ## Contributors
 - Shruthi Mohan ([GitHub](https://github.com/shruthimohan03))
 - Bagiya Lakshmi ([GitHub](https://github.com/bagiyalakshmi))
+
